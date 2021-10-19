@@ -1,2 +1,6 @@
 # Hekma-app
-Hekma app is small application to display a qoutes said by arab writers
+An application for well-known quotes of Arab writers
+
+## Pure Javascript 
+
+Demo : https://waledkamal.github.io/Hekma-app/
