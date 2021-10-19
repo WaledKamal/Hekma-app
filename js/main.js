@@ -11,7 +11,7 @@ document.querySelector(".auto-swipe").onclick = function () {
     this.innerText = "تشغيل";
     audioReading.pause();
   } else {
-    setInterval(generateQoute, 5000);
+    setInterval(generateQoute, 8000);
     audioReading.play();
     this.classList.add("active");
     this.style.backgroundColor = "red";
